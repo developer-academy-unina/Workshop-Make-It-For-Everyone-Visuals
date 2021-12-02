@@ -4,7 +4,6 @@
 Discover how to design your app with accessibility in mind. You can empower everyone to use your app by making your app legible. Explore how colors, colors contrast ratio and fonts affect legibility of your app.
 
 
-
 <p align="center">
     <a href="#" alt="Version">
         <img src="https://img.shields.io/static/v1?label=Version&message=1.0.0&color=brightgreen" /></a>
@@ -31,8 +30,6 @@ Discover how to design your app with accessibility in mind. You can empower ever
 * Domenico De Luca
 
 
-## Classroom
-
 1. When using colors, it is important to have sufficient contrast between the background color and foreground color. According to guidelines, text should have a contrast ratio of at least 4.5:1 against its background. Change the foreground or background colors and make sure that the text is legible.
 2. Red–green color blindness is the most common form of color blindness. Test the app screen using Sim Daltonism and selecting Deuteranopia as simulated vision. Change the colors to make sure that text is legible for everyone.
 3. Using a font type with decorative elements will make your content more difficult to read. You have to allow adjusting the text size used on your app. Explore how apps that supports Dynamic Type will adjust to preferred reading size.
@@ -40,6 +37,6 @@ Discover how to design your app with accessibility in mind. You can empower ever
 
 **Resources:**
 
-- [Human Interface Guidelines. Colors](https://developer.apple.com/design/human-interface-guidelines/watchos/visual/color/)
-- [Human Interface Guidelines. Typography](https://developer.apple.com/design/human-interface-guidelines/watchos/visual/typography/)
+- [Human Interface Guidelines. Accessibility. Color and Contrast] (https://developer.apple.com/design/human-interface-guidelines/accessibility/overview/color-and-contrast/)
+- [Human Interface Guidelines. Accessibility. Text Size and Weight] (https://developer.apple.com/design/human-interface-guidelines/accessibility/overview/text-size-and-weight/)
 - [App Store. Sim Daltonism](https://apps.apple.com/us/app/sim-daltonism/id1050503579)
